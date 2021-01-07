@@ -10,9 +10,9 @@
     <short_description>.</short_description>
     <price>185</price>
     <special_price>111</special_price>
-    <base_image><![CDATA[http://b2b.baltikagroup.com:5556/BaltikaAPI/public/api/eshop/getProductImage/208740.jpg]]></base_image>
-    <small_image><![CDATA[http://b2b.baltikagroup.com:5556/BaltikaAPI/public/api/eshop/getProductImage/208740.jpg]]></small_image>
-    <thumbnail_image><![CDATA[http://b2b.baltikagroup.com:5556/BaltikaAPI/public/api/eshop/getProductImage/208740.jpg]]></thumbnail_image>
+    <base_image><![CDATA[http://b2b.baltikagroup.com:5556/BaltikaAPI/public/api/eshop/getProductImage/208740.jpeg]]></base_image>
+    <small_image><![CDATA[http://b2b.baltikagroup.com:5556/BaltikaAPI/public/api/eshop/getProductImage/208740.jpeg]]></small_image>
+    <thumbnail_image><![CDATA[http://b2b.baltikagroup.com:5556/BaltikaAPI/public/api/eshop/getProductImage/208740.jpeg]]></thumbnail_image>
   </row>
   
 </root>

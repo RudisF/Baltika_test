@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <manufacturer><![CDATA[BM]]></manufacturer>
+    <name_of_store><![CDATA[andmorefashion]]></name_of_store>
+    <sku><![CDATA[208740 test]]></sku>
+    <name><![CDATA[Test Baltman soft fit wool mix blazer Test]]></name>
+    <url_to_product><![CDATA[https://www.andmorefashion.com/catalog/product/view/id/38074]]></url_to_product>
+    <categories><![CDATA[Default Category/Men's fashion/Suits & Jackets/Jackets]]></categories>
+    <short_description>.</short_description>
+    <price>185</price>
+    <special_price>111</special_price>
+    <base_image><![CDATA[http://b2b.baltikagroup.com:5556/BaltikaAPI/public/api/eshop/getProductImage/208740.jpg]]></base_image>
+    <small_image><![CDATA[http://b2b.baltikagroup.com:5556/BaltikaAPI/public/api/eshop/getProductImage/208740.jpg]]></small_image>
+    <thumbnail_image><![CDATA[http://b2b.baltikagroup.com:5556/BaltikaAPI/public/api/eshop/getProductImage/208740.jpg]]></thumbnail_image>
+  </row>
+  
+</root>
